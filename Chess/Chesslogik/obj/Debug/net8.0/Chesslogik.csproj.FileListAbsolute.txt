@@ -1,0 +1,11 @@
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\bin\Debug\net8.0\Chesslogik.deps.json
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\bin\Debug\net8.0\Chesslogik.dll
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\bin\Debug\net8.0\Chesslogik.pdb
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.AssemblyInfoInputs.cache
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.AssemblyInfo.cs
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.csproj.CoreCompileInputs.cache
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.dll
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\refint\Chesslogik.dll
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\Chesslogik.pdb
+C:\dev\Visual Studio\Chess\Chess\Chesslogik\obj\Debug\net8.0\ref\Chesslogik.dll
