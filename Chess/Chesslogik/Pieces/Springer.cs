@@ -31,7 +31,7 @@
         private IEnumerable<Position> MovePositions(Position from, Brett brett)
         {
             return PotentionalToPositions(from).Where(pos => Brett.IsInside(pos)
-                && (brett.IsEmpty(pos)) || brett[pos].Color != Color );
+                && (brett.IsEmpty(pos) || brett[pos].Color != Color ));
         }
 
         public override IEnumerable<Move> GetMoves(Position from, Brett brett)
